@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "OKE",
+  "base_artist": "Maddy Soma",
+  "createdAt": "2026-02-12T07:25:37.020046Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Oke-She-Moke-She-Pop",
+      "artist": "Big Joe Turner",
+      "has_synced": true,
+      "path": "select/01_Oke-She-Moke-She-Pop_Big_Joe_Turner.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "OKÉ, BOOMER",
+      "artist": "LMEN PRALA feat. FIGURA & KONDOR",
+      "has_synced": false,
+      "path": "select/02_OKÉ,_BOOMER_LMEN_PRALA_feat._FIGURA_&_KONDOR.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Nelluri Nerajana (From \"Oke Okkadu\")",
+      "artist": "Hari Haran & Maha Lakshmi",
+      "has_synced": false,
+      "path": "select/03_Nelluri_Nerajana_(From__Oke_Okkadu_)_Hari_Haran_&_Maha_Lakshmi.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Oke",
+      "artist": "Maddy Soma",
+      "has_synced": false,
+      "path": "select/04_Oke_Maddy_Soma.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Oke Mmiri (Live)",
+      "artist": "Mercy Chinwo",
+      "has_synced": false,
+      "path": "select/05_Oke_Mmiri_(Live)_Mercy_Chinwo.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Oke Mmiri",
+      "artist": "Mercy Chinwo",
+      "has_synced": false,
+      "path": "select/06_Oke_Mmiri_Mercy_Chinwo.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Oke Gas Prabowo Gibran Paling Pas",
+      "artist": "Richard Jersey",
+      "has_synced": true,
+      "path": "select/07_Oke_Gas_Prabowo_Gibran_Paling_Pas_Richard_Jersey.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Give 'Em the Blues (feat. Ymtk, Bandaide & Oke Junior)",
+      "artist": "Too $hort",
+      "has_synced": false,
+      "path": "select/08_Give_'Em_the_Blues_(feat._Ymtk,_Bandaide_&_Oke_Junior)_Too_$hort.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Uttimeda Koodu (From \"Oke Okkadu\")",
+      "artist": "A.R. Rahman feat. Shankar Mahadevan",
+      "has_synced": true,
+      "path": "select/09_Uttimeda_Koodu_(From__Oke_Okkadu_)_A.R._Rahman_feat._Shankar_Mahadevan.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Amma Song (From Oke Oka Jeevitham) - From \"Oke Oka Jeevitham\"",
+      "artist": "Jakes Bejoy feat. Sid Sriram",
+      "has_synced": true,
+      "path": "select/10_Amma_Song_(From_Oke_Oka_Jeevitham)_-_From__Oke_Oka_Jeevitham_Jakes_Bejoy_feat._Sid_Sriram.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Amma Song (From Oke Oka Jeevitham) (From \"Oke Oka Jeevitham\")",
+      "artist": "Jakes Bejoy, Sid Sriram",
+      "has_synced": true,
+      "path": "select/11_Amma_Song_(From_Oke_Oka_Jeevitham)_(From__Oke_Oka_Jeevitham_)_Jakes_Bejoy,_Sid_Sriram.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Oke Okka Kshanam",
+      "artist": "Devi Sri Prasad feat. Sumangali",
+      "has_synced": false,
+      "path": "select/12_Oke_Okka_Kshanam_Devi_Sri_Prasad_feat._Sumangali.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Oke Okka Kshanam",
+      "artist": "Devi Sri Prasad, Sumangali",
+      "has_synced": false,
+      "path": "select/13_Oke_Okka_Kshanam_Devi_Sri_Prasad,_Sumangali.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Oké",
+      "artist": "Pommelien Thijs",
+      "has_synced": true,
+      "path": "select/14_Oké_Pommelien_Thijs.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Oke Oka Jeevitham",
+      "artist": "Haricharan",
+      "has_synced": false,
+      "path": "select/15_Oke_Oka_Jeevitham_Haricharan.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Oke Oka Jeevitham (From \"Mr. Nookayya\")",
+      "artist": "Haricharan",
+      "has_synced": false,
+      "path": "select/16_Oke_Oka_Jeevitham_(From__Mr._Nookayya_)_Haricharan.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Oke Oka Oorilona",
+      "artist": "Yuvan Shankar Raja feat. Deepak Blue & S.P. Abhishek",
+      "has_synced": false,
+      "path": "select/17_Oke_Oka_Oorilona_Yuvan_Shankar_Raja_feat._Deepak_Blue_&_S.P._Abhishek.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Oké (Okee)",
+      "artist": "Doe Maar",
+      "has_synced": false,
+      "path": "select/18_Oké_(Okee)_Doe_Maar.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "OKE",
+      "artist": "Maddy Soma",
+      "has_synced": false,
+      "path": "select/pl_01_OKE_Maddy_Soma.txt"
+    }
+  ]
+}
